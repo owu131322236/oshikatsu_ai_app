@@ -3,7 +3,7 @@
 #　使用技術　
 - Python
 - HTML/CSS
-- MYSQL(PythonライブラリはPython sqlightを使用）)
+- MYSQL(PythonライブラリはPython sqlightを使用）
 
 # 機能一覧
 - AIでアイテム検索（写真から文字を読み取る→読み取った文字をもとに自動で検索)
