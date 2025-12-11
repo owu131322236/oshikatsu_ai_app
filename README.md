@@ -1,0 +1,1 @@
+# oshikatsu_ai_app
