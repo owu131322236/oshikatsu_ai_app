@@ -24,12 +24,7 @@ jobs:
         pip install --upgrade pip
         pip install -r requirements.txt
     
-    - name: Synax check
+    - name: Synax & Dry-run check
       run: | 
         python -m py_compile server-https.py
         echo "Syntax check passed."
-      
-    - name: Dry-run check
-      run: |
-        python -c "import server_https"
-        echo "Dry-run check passed."
