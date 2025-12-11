@@ -1,7 +1,7 @@
 # oshikatsu_ai_app
 グッズの管理が苦手な人が、写真を撮るだけで簡単に整理できるようにするアプリ。（２次元限定）
 
-#　使用技術　
+# 使用技術　
 - Python
 - HTML/CSS
 - MYSQL(PythonライブラリはPython sqlightを使用）
